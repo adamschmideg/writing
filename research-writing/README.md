@@ -1,11 +1,19 @@
-# Write your research paper by playing a game
+---
+slideOptions:
+  theme: beige
+  transition: convex
+---
 
-Or write in an organic way
+## Write your research paper by playing a game
+
+### Adam Schmideg
 
 ---
 
-let's start
+## &nb
+### Adam Schmideg ~~PhD~~
 
 ---
 
-Is it synced?
+## Memento
+
