@@ -45,9 +45,12 @@ Note:
 
 Note:
 
-- Reading is not linear
-- Reading is not the absorption of material, it's not one-way from paper to brain. Reading is a conversation. Reading is not filling a blank slate with external thoughts. 
-- Reading is about integrating new stuff to what you already have. How do you integrate a thought? You see how it challenges what you know. You see how it bridges a gaping hole of what you don't know.
+- Reading jumps from text to text
+- Reading is not filling a blank slate with external thoughts. 
+- Reading is a conversation. 
+- Reading is about integrating new stuff to what you already have. How?
+    - You see how it challenges what you know.
+    - You see how it bridges a gaping hole of what you don't know.
 
 ---
 
@@ -55,7 +58,9 @@ Note:
 
 Note:
 
-- A single, big, clear insight is rare. An insight usually lacks the specifics. It takes more small insights to have a paper. 
+- A single, big, clear insight is rare.
+- An insight usually lacks the specifics.
+- It takes more small insights to have a paper. 
 
 ---
 
@@ -72,7 +77,11 @@ Note:
 - Blank page
 - Overwhelmed by criteria
 - Changing course
-- Interest conflicts with (assumed) expectations
+- Interest conflicts with expectations
+
+Note:
+
+- Expectations may be real or assummed
 
 ---
 
@@ -104,6 +113,7 @@ Note:
 
 - The 5 second rule
 - One list
+- Collect everything
 - Idea, quote, observation, picture
 
 ---
@@ -113,7 +123,7 @@ Note:
 - Rephrase, don't highlight
 - Handwrite, don't type
 - Save the reference
-- Follow your interest, don't care what seems important
+- Follow your interest, not what seems important
 
 ---
 
@@ -126,11 +136,11 @@ Note:
 
 ---
 
-## Anatomy of a permanent card
+## Parts of a permanent card
 
 - Context
 - Crafted text
-- Why it matters
+- Why it matters to you
 - Title
 - Keywords and links
 
@@ -164,25 +174,32 @@ Note:
 - Quick: empty
 - Permanent: empty
 - Project: empty
-- Workflow: 3 cards
+- Workflow: 4 cards
 - References: 4 cards
 
 ---
 
 ## Workflow card 1: Processing quick cards
+### Pre-selection
 
-1. Mark the first card
-2. Read the next cards and ask the same question
-3. What do I want to work on more than the last marked card?
-4. Mark that card
-5. Repeat the above three steps until you reach the end of the list
+1. Mark the first card with X
+2. Read the next cards and ask the same question:
+3. What do I want to work on more than X?
+4. Mark that card with X
+5. Repeat it until you reach the end of the list
+
+---
+
+## Workflow card 2: Processing quick cards
+### Working on cards
+
 6. Work on the marked cards (start with the last marked)
 7. You don't have to complete a card
 8. After work, move card to the end of the list
 
 ---
 
-## Workflow card 2: Regular work
+## Workflow card 3: Regular work
 
 - Process quick cards every day
 - Write a permanent card every day
@@ -190,7 +207,7 @@ Note:
 
 ---
 
-## Workflow card 3: Tools used
+## Workflow card 4: Tools used
 
 - Physical index cards
 - Note-taking app: Dynalist
@@ -210,8 +227,8 @@ Note:
 
 ## Summary
 
-- Collect cards = read with a pen in hand and take quick notes
-- Build your deck = process your notes with FV time management system
-- Select cards = work on multiple projects, let patterns emerge
-- Play with others = share your writing and integrate feedback
-- +1 Bonus = reflect on and update your workflow
+- Collect cards: read with a pen in hand and take quick notes
+- Build your deck: process your notes with FV time management system
+- Select cards: work on multiple projects, let patterns emerge
+- Play with others: share your writing and integrate feedback
+- +1 Bonus: reflect on and update your workflow
