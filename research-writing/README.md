@@ -2,6 +2,8 @@
 slideOptions:
   theme: beige
   transition: convex
+title: Write your paper by playing a game
+tags: presentation, note-taking
 ---
 
 ## Write your paper by playing a game
