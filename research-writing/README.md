@@ -23,11 +23,11 @@ slideOptions:
 4. Have an insight or conclusion
 5. Write it down
 
----
+----
 
 ## Why the plan fails
 
----
+----
 
 ## Clear topics are NOT given
 
@@ -39,7 +39,7 @@ Note:
 - A clear topic is not the beginning but one of the end results of research
 - Clarity around the topic is a sign of the research being halfway through.
 
----
+----
 
 ## Reading is NOT a linear absorption of knowledge 
 
@@ -52,7 +52,7 @@ Note:
     - You see how it challenges what you know.
     - You see how it bridges a gaping hole of what you don't know.
 
----
+----
 
 ## Insight is NOT one big Aha-moment
 
@@ -62,7 +62,7 @@ Note:
 - An insight usually lacks the specifics.
 - It takes more small insights to have a paper. 
 
----
+----
 
 ## Writing does NOT come after thinking
 
@@ -70,7 +70,7 @@ Note:
 - Thinking doesn't take place in the mind
 - Thinking takes place in writing and in conversation.
 
----
+----
 
 ## Anxieties from planned writing
 
@@ -107,7 +107,7 @@ Note:
 - References - what you refer to
 - Workflow - how you play the game
 
----
+----
 
 ## Quick cards
 
@@ -116,7 +116,7 @@ Note:
 - Collect everything
 - Idea, quote, observation, picture
 
----
+----
 
 ## Read with a pen in hand
 
@@ -125,7 +125,7 @@ Note:
 - Save the reference
 - Follow your interest, not what seems important
 
----
+----
 
 ## Permanent cards
 
@@ -134,7 +134,7 @@ Note:
 - Rich connections
 - Shelf life of a thought
 
----
+----
 
 ## Parts of a permanent card
 
@@ -144,7 +144,7 @@ Note:
 - Title
 - Keywords and links
 
----
+----
 
 ## Project cards
 
@@ -152,14 +152,14 @@ Note:
 - Index and outline
 - Publication details
 
----
+----
 
 ## Reference cards
 
 - Easy to revisit
 - Respect others
 
----
+----
 
 ## Workflow cards
 
@@ -177,9 +177,10 @@ Note:
 - Workflow: 4 cards
 - References: 4 cards
 
----
+----
 
-## Workflow card 1: Processing quick cards
+### Workflow card 1:
+## Processing quick cards
 ### Pre-selection
 
 1. Mark the first card with X
@@ -188,40 +189,43 @@ Note:
 4. Mark that card with X
 5. Repeat it until you reach the end of the list
 
----
+----
 
-## Workflow card 2: Processing quick cards
+### Workflow card 2: 
+## Processing quick cards
 ### Working on cards
 
 6. Work on the marked cards (start with the last marked)
 7. You don't have to complete a card
 8. After work, move card to the end of the list
 
----
+----
 
-## Workflow card 3: Regular work
+### Workflow card 3:
+## Regular work
 
 - Process quick cards every day
 - Write a permanent card every day
 - Show a writing project every month
 
----
+----
 
-## Workflow card 4: Tools used
+### Workflow card 4:
+## Tools used
 
 - Physical index cards
 - Note-taking app: Dynalist
 - References: Zotero
 - Document writing: Markdown and Pandoc
 
----
+----
 
 ## References
 
 - Sönke Ahrens: How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking
 - [Mark Forster: The Final Version time management system](http://markforster.squarespace.com/blog/2015/5/21/the-final-version-perfected-fvp.html)
 - Gerald Weinberg: Weinberg on Writing: The Fieldstone Method
-- [Richard Hamming: You and Your Research](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
+- ([Richard Hamming: You and Your Research](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html))
 
 ---
 
